@@ -1,2 +1,2 @@
 print("Wassup Buddy!!")
-print("helloULLU")      
+print("hell")      
